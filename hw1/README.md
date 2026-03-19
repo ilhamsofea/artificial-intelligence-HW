@@ -1,4 +1,5 @@
-Overview
+Overview 
+
 In this assignment, I modify the provided DFS (Depth-First Search) maze traversal
 visualization code to implement the A* (A-star) pathfinding algorithm instead. This assignment
 helps me to understand how informed search algorithms like A* improve upon uninformed
