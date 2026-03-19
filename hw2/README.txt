@@ -1,4 +1,4 @@
-**TASK:**
+TASK:
 1. Implement the Q-Learning algorithm by adding a new function to the existing
 codebase. The function should be named q_learning and should take as input a maze
 object, the number of episodes, the learning rate (α), the discount factor (γ), and the
@@ -29,3 +29,5 @@ parameters. (e.g., test the performance when (α=0.2, α=0.4, α=0.6, α=0.8) an
 6. Write a detailed report that explains your implementation of the Q-Learning
 algorithm, including any modifications or enhancements you made to the existing
 codebase. 
+
+p/s: You can find the detailed report in hw2 file
